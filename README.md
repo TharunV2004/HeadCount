@@ -1,4 +1,4 @@
-# People Count using YOLOv8
+# People HeadCount using YOLOv8
 
 This project detects and tracks people in a video and counts movement across a horizontal line.
 
